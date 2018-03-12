@@ -1,0 +1,32 @@
+{
+  "name": "g2-react",
+  "version": "1.0.0",
+  "description": "chart react components with g2",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangdejun/g2-react.git"
+  },
+  "keywords": [
+    "g2",
+    "charts",
+    "react",
+    "components"
+  ],
+  "author": "wangdejun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wangdejun/g2-react/issues"
+  },
+  "homepage": "https://github.com/wangdejun/g2-react#readme",
+  "dependencies": {
+    "@antv/g2": "^3.0.5-beta.5",
+    "react": "^16.2.0"
+  },
+  "devDependencies": {
+    "create-react-app": "^1.5.2"
+  }
+}
